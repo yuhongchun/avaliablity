@@ -1,6 +1,8 @@
 #!/bin/bash
 # Setup Linux System Security
 
+#此脚本为简单的web主机防护脚本，只开放了80和22端口，另外也注意将limit值配置高一些，免得将正常流量也挡住了。122.70.x.x为白名单IP。
+
 iptables -F
 iptables -F -t nat
 iptables -X
