@@ -1,3 +1,4 @@
+#此init.pp文件为puppet的apache模块中的文件，以此文件举例说明了git和github的用法。
 class apache{
         package{"httpd":
         ensure          =>present,
