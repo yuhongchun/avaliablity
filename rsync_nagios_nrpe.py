@@ -16,7 +16,7 @@ def put_task():
         sudo("cp /home/ec2-user/check_cpu_utili.sh /usr/local/nagios/libexec")
         sudo("chown nagios:nagios /usr/local/nagios/libexec/check_cpu_utili.sh")
         sudo("chmod +x /usr/local/nagios/libexec/check_cpu_utili")
-        sudo("kill -9 `ps aux | grep nrpe | head -n1 | awk '{print $2}' `")
+        sudo("kill `ps aux | grep nrpe | head -n1 | awk '{print $2}' `")
         sudo("/usr/local/nagios/bin/nrpe -c /usr/local/nagios/etc/nrpe.cfg -d")
         print green("Put File success and restart nagios nrpe service!")
 #@task
