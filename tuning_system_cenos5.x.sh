@@ -69,5 +69,5 @@ chkconfig iptables off
 chkconfig autofs off
 chkconfig yum-updatesd off
 
-#reboot system
-Reboot
+#重启系统以使上面配置生效，生产环境下注意
+reboot
