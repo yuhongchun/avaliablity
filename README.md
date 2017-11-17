@@ -1,3 +1,6 @@
+
+![image](https://github.com/yuhongchun/avaliablity/screenshot/newbook.jpg)
+
 作者联系方式
 -----------------------------------------
 在阅读中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流，谢谢。<br> 
