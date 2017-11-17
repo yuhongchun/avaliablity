@@ -1,5 +1,5 @@
 
-![image](https://github.com/yuhongchun/avaliablity/screenshot/newbook.jpg)
+![image](https://github.com/yuhongchun/avaliablity/blob/master/screenhot/newbook.jpg)
 
 作者联系方式
 -----------------------------------------
