@@ -1,5 +1,5 @@
 #/bin/bash
-	DB=pharma
+DB=pharma
 USER=root
 PASSWD=root@change
 
