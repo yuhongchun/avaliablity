@@ -1,5 +1,5 @@
 
-![image](https://github.com/yuhongchun/avaliablity/blob/master/screenhot/newbook.jpg)
+![image](https://github.com/yuhongchun/avaliablity/blob/master/screenhot/20171120093051.jpg)
 
 
 《构建高可用Linux服务器》脚本源码
