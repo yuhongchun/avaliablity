@@ -5,7 +5,7 @@ Vagrant.configure("2") do |config|
       v.cpus = 4
     end
     vb.vm.host_name = "server"
-    vb.vm.network :public_network, ip: "10.0.15"
+    vb.vm.network :public_network, ip: "10.0.0.15"
     vb.vm.box = "centos67"
   end
 
